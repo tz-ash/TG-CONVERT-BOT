@@ -7,7 +7,7 @@ class Translation(object):
 
 I am a Wybie [Wybie converter bot](https://telegram.dog/Wybieebot) by {1}
 
-I can convert file to video or video to file with custom thumbnail support.
+I can convert file to video or video to file with custom thumbnail support Hit /help .
 """
 
 
