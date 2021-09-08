@@ -12,7 +12,7 @@ from Tools.Download import download
 
 
 my_father = "https://t.me/{}".format(Config.USER_NAME[1:])
-support = "https://telegram.dog/disneyteamchat"
+support = "https://telegram.dog/tzkid"
 
 @Client.on_message(Filters.command(["start"]))
 async def start(c, m):
