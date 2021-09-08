@@ -5,7 +5,7 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a Disney Team converter [Disney team converter bot](https://telegram.dog/disneyteamconvertbot) by {1}
+I am a Wybie [Wybie converter bot](https://telegram.dog/Wybieebot) by {1}
 
 I can convert file to video or video to file with custom thumbnail support.
 """
@@ -23,7 +23,7 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [Disney chat](https://telegram.dog/disneyteamchat)
+**SUPPORT GROUP:** [Psy World](https://telegram.dog/tzkid)
 """
 
 
@@ -34,11 +34,11 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Doreamonfans](https://t.me/doreamonfans1)
+**👨‍💻 Developer:** [This Kid](https://t.me/kidhub)
 
-**📮 Channel:** [Disney Team](https://t.me/disneygrou)
+**📮 Channel:** [Kid Bots](https://t.me/kidbots)
 
-**👥 Group:** [Disney chat](https://t.me/disneyteamchat)
+**👥 Group:** [Psy World](https://t.me/tzkid)
 
 """
 
